@@ -1,0 +1,26 @@
+body
+{
+    background-size: cover;
+}
+
+.heading 
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#heading2
+{
+    font-size: 15 px;
+    width: 85%;
+    margin: 0px;
+}
+
+canvas
+{
+    border: 10px;
+    box-shadow: inset;
+    padding: 7px;
+    margin: 0px;
+}
